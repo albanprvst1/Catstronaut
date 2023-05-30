@@ -100,4 +100,4 @@ The Catstronauts application leverages the following technologies:
 
 ## Contributing
 
-Contributions to Catstronauts are always welcome! If you have any ideas, suggestions, or bug reports, please [create an issue](https://github
+Contributions to Catstronauts are always welcome! If you have any ideas, suggestions, or bug reports, please [create an issue]
