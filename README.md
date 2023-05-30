@@ -54,7 +54,7 @@ Before you proceed, make sure you have the following installed on your system:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/catstronauts.git
+   git clone https://github.com/albanprvst1/Catstronauts.git
    ```
 
 2. Navigate to the project directory:
